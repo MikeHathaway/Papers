@@ -1,0 +1,28 @@
+Digital Assets: Cryptocurrency or Bust
+
+The world is being digitized. For as much as the media covers Silicon Valley, and its quest to "eat the world", this process is really just getting started.
+
+Owners of assets have a clear incentive to digitize their assets. Since digital assets expose new interfaces for transferance and usage, owners of assets are able to generate greater amounts of value from a digital asset than a non digital asset. 
+
+The question is, how this digitization will unfold? Who will control the RECORDS? Who will manage the ledger that assigns ownership of assets and enables them to be transferrred between different nodes in a network? If I want to transfer some of my digital assets, how do other parties ensure that I don't try to transfer that same asset to someone else (the so called double spend problem), and thereby devalue the asset? 
+
+These questions are relatively new for humanity, as an economic species. Proving ownership of a physical asset is relatively simple. You either have it, or you don't. If I hand you a dollar bill, that is one less dollar bill under my control. Of course I could try printing more dollars, like Leonardo Di Caprio in "Catch me if you can", but of course then the FBI would come knocking on my door and end the party. This combination of physical ownership, product AUTHENTICATION and enforcement by trusted institutions has enabled our remarkable progress over many thousands of years.
+
+Now, I can hear you asking, where's the issue? Why not just continue this same system in the future? Of course we could. Banks can, and already do, manage extesnive infrastructure to track customers assets, and collaborate with other financial institutions to settle asset transferrance between these centralized ledgers (think SWIFT, or The Clearing House). 
+
+Unfortunately, there are a number of problems with this approach. Most importantly, it is non robust. As an example, [https://www.americanbanker.com/news/i-lost-my-home-because-of-a-computer-glitch-wells-fargo-victims-seek-answers] Wells Fargo recently announced that they had accidentally foreclosed on hundreds of its customers mortgages. Software is inherently fiendishly complex, and any system that lacks appropriate checks and balances is prone to catastrophic failure. This is also not an issue unique to banks [https://www.omicsonline.org/open-access/will-software-development-projects-always-risk-delays-2165-7866.1000e123.php?aid=27255]. 
+
+Another major issue with this centralized approach is the inability to scale. Coordinating between financial instutitons on existing networks is extremely expensive in time. Each central institution maintains its own databases, with it's own set of supporting infrastructure, and with different programming languages and staff experiences. These central nodes cannot NATIVELY talk to eachother. In order to transfer assets with reliable settlement, complex overlay networks have to be used. This process can take days, be randomly unavailable, and impossible on Holidays or weekends. 
+
+Finally, the centralized approach introduces MASSIVE counterparty risk. If we were to move dollars entirely onto a centralized, government dominated ledger, 
+
+This is where Cryptocurrencies come in. Whereas the centralized approach consists of scattered single points of failure, the decentralized approach makes usage of a Distributed Ledger (DL), most famously of which, The Blockchain. Every 
+
+Why the Cryptocurrency approach has a competitive advantage.
+
+Cryptocurrencies have been evolving. This can be seen most impressively in the Ethereum ecosystem. 
+
+How to ride the wave. You can buy the assets directly, trade futures CBOE, decentralized margin, or via OTC Trust (Greyscale).
+
+Ride the wave at your own risk.
+
